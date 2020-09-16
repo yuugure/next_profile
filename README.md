@@ -1,2 +1,7 @@
-# next_profile
-next.js profile sample
+# next_tailwind_first
+
+next.js + tailwindcss Template
+
+*  next.js 
+*  tailwind.css
+*  react
